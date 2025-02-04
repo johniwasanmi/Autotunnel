@@ -24,7 +24,7 @@ AutoTunnel is an automated script for setting up Ligolo tunnels, streamlining ne
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/AutoTunnel.git
+   git clone https://github.com/johniwasanmi/AutoTunnel.git
    cd AutoTunnel
    chmod +x AutoTunnel.sh
    ```
